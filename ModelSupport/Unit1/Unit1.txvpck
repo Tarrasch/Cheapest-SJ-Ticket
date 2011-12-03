@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="88b3egjwk_v">
+    <property name="$name" value="Unit1" />
+    <property name="$defaultDiagram" value="True" />
+    <property name="$metaclass" value="Package Diagram" />
+    <reference referencedUin="delphi:e_class:src:Project1:Unit1.TForm1">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit1.TSokning">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit1.TResa">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+  </view>
+</nodeSet>
